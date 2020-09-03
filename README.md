@@ -36,9 +36,10 @@ Fork this repository and clone your newly created repository.
 
 ## User Stories
 
+### User Story 1 of 4
+- [] Done
+- [] Set Up Tests
 ```
-User Story 1 of 4
-
 As a visitor,
 When I visit '/students',
 I see a list of students with the following information:
@@ -48,8 +49,10 @@ I see a list of students with the following information:
 (e.g. "Name: Casseopia Black, Age: 14, House: Slytherin")
 ```
 
+### User Story 2 of 4
+- [] Done
+- [] Set Up Tests
 ```
-User Story 2 of 4
 
 As a visitor,
 When I visit '/students/:id'
@@ -60,8 +63,10 @@ I see a list of the students' courses.
       "Potions")
 ```
 
+### User Story 3 of 4
+- [] Done
+- [] Set Up Tests
 ```
-User Story 3 of 4
 As a visitor,
 When I visit '/courses'
 I see a list of courses and the number of students enrolled in each course.
@@ -70,8 +75,10 @@ I see a list of courses and the number of students enrolled in each course.
       "Herbology: 10")
 ```
 
+### User Story 4 of 4
+- [] Done
+- [] Set Up Tests
 ```
-User Story 4 of 4
 
 As a visitor,
 When I visit '/students'
@@ -80,9 +87,12 @@ I see the average age of all students.
 (e.g. "Average Age: 14.5")
 ```
 ---
-### Extension
+## Extension
+
+### User Story Extension
+- [] Done
+- [] Set Up Tests
 ```
-User Story Extension
 
 Students index page shows students in alphabetical order.
 Courses index page shows courses in alphabetical order.
