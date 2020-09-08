@@ -37,8 +37,8 @@ Fork this repository and clone your newly created repository.
 ## User Stories
 
 ### User Story 1 of 4
-- [] Done
-- [] Set Up Tests
+- [x] Done
+- [x] Set Up Tests
 ```
 As a visitor,
 When I visit '/students',
@@ -50,8 +50,8 @@ I see a list of students with the following information:
 ```
 
 ### User Story 2 of 4
-- [] Done
-- [] Set Up Tests
+- [x] Done
+- [x] Set Up Tests
 ```
 
 As a visitor,
