@@ -64,8 +64,8 @@ I see a list of the students' courses.
 ```
 
 ### User Story 3 of 4
-- [] Done
-- [] Set Up Tests
+- [x] Done
+- [x] Set Up Tests
 ```
 As a visitor,
 When I visit '/courses'
