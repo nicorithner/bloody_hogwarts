@@ -76,8 +76,8 @@ I see a list of courses and the number of students enrolled in each course.
 ```
 
 ### User Story 4 of 4
-- [] Done
-- [] Set Up Tests
+- [x] Done
+- [x] Set Up Tests
 ```
 
 As a visitor,
